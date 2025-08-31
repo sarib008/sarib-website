@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sarib | King</title>
+<style>
+body { font-family: Arial, sans-serif; background: #f5f5f5; color: #111; text-align: center; margin: 0; }
+header { padding: 40px; background: #222; color: #fff; }
+h1 { color: gold; }
+a { color: #1da1f2; text-decoration: none; font-weight: bold; }
+img { max-width: 100%; height: auto; margin: 10px 0; border-radius: 10px; }
+section { padding: 20px; }
+button { padding: 10px 20px; background: gold; border: none; cursor: pointer; font-weight: bold; border-radius: 5px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Sarib 👑</h1>
+  <p>Follow me on Instagram for my latest photos & reels!</p>
+  <button onclick="window.location.href='https://www.instagram.com/sarib_008/'">Follow on Instagram</button>
+</header>
+
+<section>
+  <h2>Photos</h2>
+  <img src="Sarib_008.jpg" alt="Sarib king">
+  <img src="Sarib.jpg" alt="Sarib Royal">
+  <img src="sarib008.jpg" alt="Sarib Attitude">
+</section>
+
+<footer>
+  <p>© 2025 Sarib | Millionaire</p>
+</footer>
+
+</body>
+</html>
